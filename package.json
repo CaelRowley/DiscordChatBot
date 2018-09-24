@@ -1,0 +1,14 @@
+{
+  "name": "foodbot",
+  "version": "1.0.0",
+  "description": "A food bot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cael Rowley",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
